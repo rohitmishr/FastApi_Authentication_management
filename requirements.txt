@@ -1,0 +1,7 @@
+gunicorn>=20.1.0
+fastapi>=0.85.2
+uvicorn>=0.15.0
+fastapi-sqlalchemy
+mysql-connector-python
+
+# pip install "python-jose[cryptography]" "passlib[bcrypt]" python-multipart

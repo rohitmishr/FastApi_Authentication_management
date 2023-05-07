@@ -1,0 +1,1 @@
+mysql --host=localhost --user=root --password=rohitXXXXXXXXXXXXXX --verbose < db_config.sql
