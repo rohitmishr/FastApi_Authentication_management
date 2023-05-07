@@ -1,2 +1,2 @@
-# FastApi_Lib_management
-A Library management backend using FastApi.
+# FastApi_Authorization
+A Simple User login and authorization backend code using FastApi.
